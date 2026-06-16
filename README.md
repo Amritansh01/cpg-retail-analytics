@@ -36,3 +36,21 @@ A Consumer Packaged Goods (CPG) retail chain operating 1,115 stores needed to:
 ---
 
 ## 📁 Project Structure
+---
+
+## 📈 Visual Results
+
+### Revenue by Store Type
+![Revenue by Store Type](outputs/chart1_revenue_by_store_type.png)
+
+### Promotional Effectiveness
+![Promotional Effectiveness](outputs/chart2_promo_effectiveness.png)
+
+### Monthly Revenue Trend
+![Monthly Revenue Trend](outputs/chart3_monthly_revenue_trend.png)
+
+### Store Segmentation — K-Means Clustering
+![Store Clusters](outputs/chart4_store_clusters.png)
+
+### Actual vs Predicted Sales — XGBoost Model
+![Actual vs Predicted](outputs/chart5_actual_vs_predicted.png)
